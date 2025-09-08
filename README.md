@@ -2,4 +2,4 @@
 
 Linear algebra, multivariable calculus, constrained optimisation, difference and differential equations for economists.
 
-Suitable for first and second-year undergraduate students studying economics, statistics, or mathematics.
+Suitable for students studying economics, statistics, or mathematics at a first or second-year undergraduate level.
